@@ -11,16 +11,6 @@ class Faq < SitePrism::Page
 
     end
 
-    def validamsg  
-        p1.text
-        p2.text
-        a = "Não! Somos mais que um cartão, oferecemos uma conta digital. Muito mais simples, você movimenta sua conta e organiza a sua vida financeira direto no app =)"
-        b = "Não cobramos mensalidade e anuidade, não fazemos você pegar fila e não exigimos mil papéis para você abrir sua conta. Aqui é tudo bem mais simples!"
-        
-        #expect(a).to eql p1
-        #expect(b).to eql p2
-
-    end
 
 end
 

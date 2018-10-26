@@ -5,9 +5,8 @@ Funcionalidade: Automacao Web Neon
 Cenario: Validar pergunta
 
     Dado acesso pagina de perguntas
-    E Seleciono uma pergunta
+    E Seleciono uma pergunta 
     Entao vejo a resposta 
-
 
 @cartao  
 Cenario: Validar status de servico
